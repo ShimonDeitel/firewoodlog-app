@@ -1,0 +1,29 @@
+{
+  "identifier" : "com.shimondeitel.firewoodlog.pro",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.firewoodlog.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Pro features",
+          "displayName" : "Firewood Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.firewoodlog.pro",
+      "referenceName" : "Firewood Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
